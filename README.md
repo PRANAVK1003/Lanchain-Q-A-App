@@ -1,4 +1,4 @@
-#Environment Setup : 
+### Environment Setup : 
 py -3.10 -m venv myvenv
 
 myvenv\Scripts\activate
@@ -11,5 +11,5 @@ pip install python-dotenv
 Get a Google API key: 
 Head to https://ai.google.dev/gemini-api/docs/api-key to generate a Google AI API key.
 
-#To run a question and answering app : 
+### To run a question and answering app : 
  streamlit run gemini_app_qa.py
